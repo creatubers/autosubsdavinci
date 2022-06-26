@@ -1,5 +1,5 @@
 # autosubsdavinci
-Script para pasar voz a texto en líneas de tiempo de DaVinci Resolve
+Script para pasar voz a texto en líneas de tiempo de DaVinci Resolve usando VOSK.
 
 Para su correcto funcionamiento solo tienes que seguir estos pasos:
 
