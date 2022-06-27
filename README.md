@@ -22,6 +22,10 @@ Linux:
     RESOLVE_SCRIPT_LIB="/opt/resolve/libs/Fusion/fusionscript.so"
     PYTHONPATH="$PYTHONPATH:$RESOLVE_SCRIPT_API/Modules/"
     
-4) Instala VOSK (https://alphacephei.com/vosk/) mediante pip3 install vosk
+4) Instala VOSK (https://alphacephei.com/vosk/) mediante 
+
+<code>pip3 install vosk</code>
+
+En Windows, además, tienes que añadir en C:\nombredeusuario\ un directorio llamado .cache y, dentro de este, otro llamado .vosk
 
 5) Instala el script de este repositorio en la carpeta Utility de DaVinci Resolve
