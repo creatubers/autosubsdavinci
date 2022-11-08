@@ -26,6 +26,6 @@ Linux:
 
 <code>pip3 install vosk</code>
 
-En Windows, además, tienes que añadir en C:\nombredeusuario\ un directorio llamado .cache y, dentro de este, otro llamado vosk
+En Windows, además, tienes que añadir en C:\Usuarios\nombredeusuario\ un directorio llamado .cache y, dentro de este, otro llamado vosk
 
 5) Instala el script de este repositorio en la carpeta Utility de DaVinci Resolve
